@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.bg-container {
+    background-image: url("https://media.istockphoto.com/id/622921474/vector/business-isometric-workplace.jpg?s=612x612&w=0&k=20&c=itfQz65Bo7hZ339Pkb-qVBBlFR7KleU9D8kf8T3ypiM=");
+    height: 100vh;
+    background-size: cover;
+}
+
+
+
+.caption1 {
+    color: #fa4f1b;
+    font-family: "Serif";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.caption {
+    color: #4d24c7;
+    font-family: "Serif";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+.profile-section {
+    background-color: #f9fbfe;
+}
+
+.profile-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.profile-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.profile-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.profile-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+
+.working-section {
+    background-color: white;
+}
+
+.working-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.intestshead {
+    text-decoration: underline;
+}
+
+
+
+.working-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.working-card {
+    background-image: linear-gradient(#30d1c6, blue);
+    color: black;
+    border-radius: 16px;
+}
+
+
+.rhead {
+    font-weight: bold;
+    font-family: "italic";
+}
+
+.head1 {
+    font-weight: bold;
+}
+
+.skills {
+    background-color: #cdd4cd;
+    color: #1a1f1b;
+}
+
+.interstsNames {
+    font-weight: bold;
+}
+
+.working-card1 {
+    background-image: linear-gradient(gray, orange);
+    color: black;
+    border-radius: 16px;
+}
+
+.head2 {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.awards-description {
+    color: black;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.pics2 {
+    border-radius: 10px;
+}
+
+.interests-section {
+    background-color: #d0b2001a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nn {
+    order: 0;
+    order: 1;
+}
+
+@media (min-width:992px) {
+    .new-box {
+        padding: 40px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
